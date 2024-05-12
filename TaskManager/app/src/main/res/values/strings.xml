@@ -1,6 +1,13 @@
 <resources>
-    <string name="app_name">Task Manager</string>
-    <string name="name">Name</string>
-    <string name="date">Date</string>
+    <string name="app_name">Task manger</string>
+    <string name="search">Search</string>
+    <string name="save_task">Save Task</string>
+    <string name="taskAddButton">taskAddButton</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="fbEdit">fbEdit</string>
+    <string name="task_name">Task Name</string>
     <string name="description">Description</string>
 </resources>
